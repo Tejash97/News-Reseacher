@@ -9,9 +9,6 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import UnstructuredURLLoader
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
-from llama_index.embeddings.langchain import LangchainEmbedding
-
-from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_groq import ChatGroq
 
 
