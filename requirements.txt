@@ -1,14 +1,14 @@
-langchain==0.0.284
+langchain
 langchain-core
-langsmith
-python-dotenv==1.0.0
-streamlit==1.22.0
-unstructured==0.9.2
-tiktoken==0.3.0
-libmagic==1.0
-python-magic==0.4.27
-langchain_community
-faiss-cpu
 groq
 langchain-groq
+python-dotenv
+streamlit
+unstructured
+tiktoken
+faiss-cpu
+libmagic
+python-magic
+langchain_community
+llama_index
 
