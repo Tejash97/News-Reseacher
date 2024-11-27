@@ -11,4 +11,5 @@ libmagic
 python-magic
 langchain_community
 llama_index
+sentence-transformers
 
